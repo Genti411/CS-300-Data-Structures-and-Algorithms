@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\Genti\source\repos\CS300 ProjOne\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Genti\source\repos\CS300 ProjOne\CS 300 Vector Sorting Assignment Student Files\VectorSorting.cpp(322,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VectorSorting.vcxproj -> C:\Users\Genti\source\repos\VectorSorting\x64\Debug\VectorSorting.exe
